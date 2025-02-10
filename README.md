@@ -46,6 +46,6 @@
 
 ###
 
-<p align="left">More Info:<br>This is made to learn from and you can try add your own commands! ( Ill MAYBE work on it and add new commands and TP locations )</p>
+<p align="left">More Info:<br>This is made to learn from and you can try add your own commands! ( I will MAYBE work on it and add new commands and TP locations )</p>
 
 ###
